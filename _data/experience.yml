@@ -1,0 +1,19 @@
+# Experience template
+
+- layout: left
+  company: CIMeC
+  #link: www.unitn.it
+  job_title: Research Assistant
+  dates: January 2020- Present
+  quote:    
+  description: | # this will include new lines to allow paragraphs
+   Bottini lab 
+
+- layout: left
+  company: Oracle
+  #link: www.oracle.com
+  job_title: Member of Technical Staff
+  dates: August 2018 - November 2019
+  quote:    
+  description: | # this will include new lines to allow paragraphs
+   OCI, Machine learning 
