@@ -26,13 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: debottam_kundu
 github_username:  debottamKundu
+darkmode: true
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 repository:  debottamKundu/debottamKundu.github.io
- 
+
 # about_content: 
 # about_profile_image: _includes/profile.jpg
 # Exclude from processing.

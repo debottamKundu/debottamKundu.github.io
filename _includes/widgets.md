@@ -1,21 +1,9 @@
----
-layout: nothomepage
-title: Blog
-permalink: /blog/
----
 
-<h1>{{ page.title }}</h1>
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 <div class='widget'>
   <style type="text/css" media="screen">
     .gr_grid_container {
       /* customize grid container div here. eg: width: 500px; */
-      width:800px;
+      width:1000px;
       height:500px;
     }
 
@@ -60,3 +48,5 @@ permalink: /blog/
 <script src="https://www.goodreads.com/review/grid_widget/32736128.Montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=d&shelf=read&sort=date_added&widget_id=1606922364" type="text/javascript" charset="utf-8"></script>
 </div>
 
+------------------
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1ELYJUzL34Lyrk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

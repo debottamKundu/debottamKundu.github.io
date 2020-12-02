@@ -7,7 +7,13 @@
   dates: January 2020- Present
   quote:    
   description: | # this will include new lines to allow paragraphs
-   Bottini lab 
+    We worked on emotion and color representation in the human brain across cultures and languages, and 
+    their relation with cognitive maps.We use dimensionality reduction techniques such as MDS, PCA and others
+    to investigate the relation between emotion and color; and how the relationship differs with respect to 
+    word-statistics models such as word2vec and BERT.  
+    We are also running an fMRI experiment where we investigate the neural representations of time across different levels of abstraction.
+    We scan participants in an experiment where they listen to different lengths and pitches of auditory tones; as well as words describing actions.
+    The aim is to identify that whether there is an underlying representation that translates across tones and imagined actions. 
 
 - layout: left
   company: Oracle
@@ -16,4 +22,6 @@
   dates: August 2018 - November 2019
   quote:    
   description: | # this will include new lines to allow paragraphs
-   OCI, Machine learning 
+    I used to work on time series clustering and ARIMA predictions on CPU-utilization,database usage cycles,etc. and their optimization on Oracle software.
+    I have also worked on designing systems that are able to classify SQLs based on query patterns. I have also worked on initilazing database schemas for
+    onboarding for companies using OCI services. 
