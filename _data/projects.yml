@@ -1,9 +1,33 @@
 # Project template
 - layout: left
-  name: Project name
+  name: Patent 
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+      Query Classification and Processing Using Neural Network Based Machine Learning by _Arvind Maheshwari,Vamshidhar Pasham,Shantanu Mahajan and Debottam Kundu._
+
+
+- layout: left
+  name: Publication
+  description: | # this will include new lines to allow paragraphs
+       Study of Engineered Features and Learning Features in Machine Learning – A Case Study in Document Classification by _Arpan Sen, Shrestha Ghosh,Debottam Kundu,Debleena Sarkar and Jaya Sil._
+       
+       
+      
+- layout: left
+  name: Conference presentation
+  description: | # this will include new lines to allow paragraphs
+         Structural and Functional Biomarkers of Conversion to Alzheimer’s Disease by _Shreya Rajagopal,Karthik Malladi,Debottam Kundu and Sridharan Devarajan._
+
+
+# - layout: left
+#   name: Custom search engine
+#   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#   # quote: >
+#   #   Short overview of the project (optional)
+#   description: | # this will include new lines to allow paragraphs
+#      I implemented a search engine in open source software Lucene. Additional capabilities included diversifying results when presented with informational queries so that each result returned falls in different broad categories.
+#      It was also capable of recognizing categories in the queried documents and replying back to the user about results pertaining to the category the user was interested in.
