@@ -29,7 +29,8 @@ github_username:  debottamKundu
 darkmode: true
 
 # Build settings
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+remote_theme: https://github.com/andrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-feed
 repository:  debottamKundu/debottamKundu.github.io
