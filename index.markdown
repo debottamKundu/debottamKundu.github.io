@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+heading: Debottam's Website
+subheading: Home Page
 ---
+Hello
