@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+comment: false
 ---
 
 This website has been setup using [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme). 
