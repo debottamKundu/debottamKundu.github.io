@@ -1,7 +1,16 @@
 header:
+
+  - titles:
+      en      : &EN       Home
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /homepage.html
+
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Posts
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -48,3 +57,12 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - titles:
+      en      : &EN       Resume
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+    url: /resume.html
+
