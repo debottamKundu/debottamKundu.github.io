@@ -20,8 +20,8 @@ layout: page
 
 
 <p id="footnote-1"> 
-	<sup>[1]</sup> <a href="https://www.goodreads.com/book/show/58084975-nudge">Check out what I'm reading now<a href="#welcome">&#8617;</a>
+	<sup>[1]</sup>Check out what I'm reading <a href="https://www.goodreads.com/book/show/58084975-nudge">now</a><a href="#welcome">&#8617;</a>
 </p>
 <p id="footnote-2">
-	<sup>[2]</sup> <a href="https://rentry.co/recommendations_kundu">Totally unwarranted podcast and newsletter recommendation list<a href="#welcome">&#8617;</a>
+	<sup>[2]</sup>Totally unwarranted podcast and newsletter recommendation  <a href="https://rentry.co/recommendations_kundu">list</a><a href="#welcome">&#8617;</a>
 </p>
