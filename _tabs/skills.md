@@ -15,4 +15,4 @@ I have used both fMRI data and MRI data as part of my projects, so I'm quite fam
 
 ## Languages
 
-I am a native Bengali speaker, and my English and Hindi language skills would also be considered of native proficiency. I also plan to atleast be able to hold a conversation in German before I'm done with my PhD. 
+I am a native Bengali speaker, and my English and Hindi language skills would also be considered of native proficiency. I also plan to at least be able to hold a conversation in German before I'm done with my PhD. 
