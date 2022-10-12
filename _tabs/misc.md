@@ -14,7 +14,7 @@ You can use this to basically generate a bar code like color scheme for any pict
 
 ### Tmdb poster downloader
 
-If you want high quality movie posters for some reason, you can use this to download them from the movie database. It is not very involved, and mostly piggy backs on a very well written api. However, if you want some to use it, you'll find it [here]().[^a]
+If you want high quality movie posters for some reason, you can use this to download them from the movie database. It is not very involved, and mostly piggy backs on a very well written api. However, if you want to use it, you'll find it [here]().[^a]
 
 
 ### The Seen and the Unseen scrapper
